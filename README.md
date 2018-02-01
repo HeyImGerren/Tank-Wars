@@ -43,6 +43,10 @@ Create your own jar file
 On success, this window should pop up, and you're ready to play! 
 ![](./TankWars.png)
 
+## Design Patterns
+- Model View Controller
+- Observer/Observable
+
 ## Built With 
 - [Java.awt](https://docs.oracle.com/javase/7/docs/api/java/awt/package-summary.html) : We utilized this in order to use the MVC pattern (key events, key listeners, etc.)
 - [Javax.swing](https://docs.oracle.com/javase/7/docs/api/javax/swing/package-summary.html) : We used this to work with Jframes and Jpanels and to aid with painting graphics onto the panel.
